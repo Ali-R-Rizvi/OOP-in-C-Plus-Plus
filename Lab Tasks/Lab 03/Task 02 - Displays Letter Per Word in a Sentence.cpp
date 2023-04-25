@@ -1,3 +1,6 @@
+// Lab 03
+// Task 02 - Displays Letter Per Word in a Sentence
+
 #include <iostream>
 #include<stdio.h>
 #include <string>
