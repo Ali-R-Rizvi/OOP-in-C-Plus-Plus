@@ -1,3 +1,6 @@
+// Lab 03
+// Task 03 - Reverses the String's Case
+
 #include "iostream"
 #include <string>
 
