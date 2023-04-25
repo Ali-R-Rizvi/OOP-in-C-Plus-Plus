@@ -1,3 +1,6 @@
+// Lab 02
+// Task 02 - Sum of All Array Elements Created Through Dynamically
+
 #include <iostream>
 #include <math.h>
 
