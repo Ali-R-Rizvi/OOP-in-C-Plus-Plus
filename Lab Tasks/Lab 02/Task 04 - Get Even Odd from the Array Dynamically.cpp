@@ -1,3 +1,6 @@
+// Lab 02
+// Task 04 - Get Even Odd from the Array Dynamically
+
 #include <iostream>
 #include <math.h>
 
