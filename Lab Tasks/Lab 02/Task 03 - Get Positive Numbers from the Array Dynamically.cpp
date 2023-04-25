@@ -1,3 +1,6 @@
+// Lab 02
+// Task 03 - Get Positive Numbers from the Array Dynamically
+
 #include <iostream>
 #include <math.h>
 
