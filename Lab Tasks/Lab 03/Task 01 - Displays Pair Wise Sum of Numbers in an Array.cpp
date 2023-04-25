@@ -1,3 +1,6 @@
+// Lab 03
+// Task 01 - Displays Pair Wise Sum of Numbers in an Array
+
 #include "iostream"
 
 using namespace std;
