@@ -1,3 +1,6 @@
+// Lab 02
+// Task 01 - Two Variables with Dynamic Memory Allocation
+
 #include <iostream>
 #include <math.h>
 
